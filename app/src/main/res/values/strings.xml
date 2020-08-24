@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tasty Cuisine</string>
+    <string name="recepieName">Recepie Name</string>
+    <string name="indgredients">Ingredients</string>
+</resources>
